@@ -10,7 +10,7 @@
 #     https://doc.scrapy.org/en/latest/topics/spider-middleware.html
 
 
-title = "小麦粉-生物毒素-全部"
+title = "小麦粉-非法添加-全部"
 
 #产品名称
 kw = '小麦粉'
@@ -19,7 +19,7 @@ kw = '小麦粉'
 hege = '2'
 
 #不合格原因 '1'-质量指标 '2'-微生物 ''-请选择（全选）
-xmfl1 = '3'
+xmfl1 = '8'
 
 #抽检级别 ''-全部 '1'-国抽 '2'-省抽
 jibie = ''
