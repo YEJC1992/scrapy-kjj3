@@ -10,25 +10,25 @@
 #     https://doc.scrapy.org/en/latest/topics/spider-middleware.html
 
 
-title = "芝麻油-污染物-全部"
+title = "小麦粉-生物毒素-全部"
 
 #产品名称
-kw = '芝麻油'
+kw = '小麦粉'
 
 #判断结果 '1'-合格 '2'-不合格 ''全部
 hege = '2'
 
 #不合格原因 '1'-质量指标 '2'-微生物 ''-请选择（全选）
-xmfl1 = '4'
+xmfl1 = '3'
 
 #抽检级别 ''-全部 '1'-国抽 '2'-省抽
 jibie = ''
 
 #通报开始时间 '2015-01-12'
-timebegin = '2016-01-01'
+timebegin = '2015-01-01'
 
 #通报结束时间
-scrapy_end_time = '2017-01-01'
+scrapy_end_time = '2016-01-01'
 
 catidname = ''
 
